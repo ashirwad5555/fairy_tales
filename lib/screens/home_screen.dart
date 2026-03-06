@@ -184,28 +184,28 @@ class _HomeScreenState extends State<HomeScreen>
                 height: 60,
                 child: Stack(
                   children: [
-                    Positioned(
+                    const Positioned(
                       left: 30,
                       top: 10,
                       child: FloatingStar(
                         size: 24,
-                        duration: const Duration(seconds: 2),
+                        duration: Duration(seconds: 2),
                       ),
                     ),
-                    Positioned(
+                    const Positioned(
                       right: 50,
                       top: 20,
                       child: FloatingStar(
                         size: 18,
-                        duration: const Duration(seconds: 3),
+                        duration: Duration(seconds: 3),
                       ),
                     ),
                     Positioned(
                       left: MediaQuery.of(context).size.width / 2 - 10,
                       top: 5,
-                      child: FloatingStar(
+                      child: const FloatingStar(
                         size: 16,
-                        duration: const Duration(seconds: 4),
+                        duration: Duration(seconds: 4),
                       ),
                     ),
                   ],

@@ -17,7 +17,7 @@ class AudioManager {
     try {
       // Set audio context for mobile
       await _player.setAudioContext(
-        AudioContext(
+        const AudioContext(
           iOS: AudioContextIOS(
             category: AVAudioSessionCategory.ambient,
             options: [
