@@ -25,5 +25,6 @@ flutter:
 
   # Add assets here
   assets:
+    - assets/data/stories.json
     - assets/sounds/
     - assets/animations/

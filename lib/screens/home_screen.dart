@@ -5,6 +5,7 @@ import '../managers/haptic_helper.dart';
 import '../widgets/floating_star.dart';
 import '../widgets/category_card.dart';
 import 'sound_debug_screen.dart'; // Add this import
+import 'package:fary_tales/models/story_category.dart';
 
 class HomeScreen extends StatefulWidget {
   final bool isDarkMode;
@@ -24,6 +25,8 @@ class _HomeScreenState extends State<HomeScreen>
     with SingleTickerProviderStateMixin {
   late AnimationController _controller;
   bool _soundEnabled = true;
+  List<StoryCategory> _categories = [];
+  bool _isLoading = true;
 
   @override
   void initState() {
@@ -33,6 +36,17 @@ class _HomeScreenState extends State<HomeScreen>
       duration: const Duration(milliseconds: 1500),
     )..forward();
     AudioManager().playSound('welcome');
+    _loadStories();
+  }
+
+  Future<void> _loadStories() async {
+    final loaded = await getCategories();
+    if (mounted) {
+      setState(() {
+        _categories = loaded;
+        _isLoading = false;
+      });
+    }
   }
 
   @override
@@ -43,6 +57,11 @@ class _HomeScreenState extends State<HomeScreen>
 
   @override
   Widget build(BuildContext context) {
+    if (_isLoading) {
+      return const Scaffold(
+        body: Center(child: CircularProgressIndicator()),
+      );
+    }
     final isDark = widget.isDarkMode;
     final bgColors = isDark
         ? [
@@ -221,10 +240,10 @@ class _HomeScreenState extends State<HomeScreen>
                     crossAxisSpacing: 16,
                     mainAxisSpacing: 16,
                   ),
-                  itemCount: categories.length,
+                  itemCount: _categories.length,
                   itemBuilder: (context, index) {
                     return CategoryCard(
-                      category: categories[index],
+                      category: _categories[index],
                       delay: index * 150,
                       animation: _controller,
                       isDarkMode: widget.isDarkMode,
