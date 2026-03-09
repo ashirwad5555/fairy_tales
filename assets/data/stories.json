@@ -11,7 +11,9 @@
           "coverColor": "#87CEEB",
           "author": "Watty Piper",
           "lottieAnimation": "train",
-          "story": "Once upon a time, there was a little blue engine who loved to help. One day, she found a long train of toys and treats that needed to get over a big mountain to the children on the other side.\n\n\"Can you help us?\" asked the dolls and teddy bears.\n\nThe little engine had never climbed such a big mountain before, but she looked at all the happy toys and said, \"I think I can! I think I can!\"\n\nAs she started up the mountain, puffing and chugging, she kept repeating: \"I think I can! I think I can! I think I can!\"\n\nThe mountain was steep and the little engine was tired, but she never gave up. With each chug, she got closer to the top.\n\nFinally, she reached the peak! \"I thought I could! I thought I could!\" she said happily as she rolled down the other side.\n\nThe children were so happy to receive their toys and treats, and the little engine learned that believing in yourself can help you achieve anything!\n\nThe End.\n\nRemember: When something seems hard, just keep saying \"I think I can!\" and give it your best try!"
+          "storyType": "text",
+          "story": "Once upon a time, there was a little blue engine who loved to help. One day, she found a long train of toys and treats that needed to get over a big mountain to the children on the other side.\n\n\"Can you help us?\" asked the dolls and teddy bears.\n\nThe little engine had never climbed such a big mountain before, but she looked at all the happy toys and said, \"I think I can! I think I can!\"\n\nAs she started up the mountain, puffing and chugging, she kept repeating: \"I think I can! I think I can! I think I can!\"\n\nThe mountain was steep and the little engine was tired, but she never gave up. With each chug, she got closer to the top.\n\nFinally, she reached the peak! \"I thought I could! I thought I could!\" she said happily as she rolled down the other side.\n\nThe children were so happy to receive their toys and treats, and the little engine learned that believing in yourself can help you achieve anything!\n\nThe End.\n\nRemember: When something seems hard, just keep saying \"I think I can!\" and give it your best try!",
+          "pages": []
         },
         {
           "title": "The Brave Little Bunny",
@@ -19,7 +21,52 @@
           "coverColor": "#FFB6C1",
           "author": "Story Collection",
           "lottieAnimation": null,
-          "story": "In a cozy burrow lived Bella, a tiny bunny who was afraid of the dark forest.\n\nOne evening, Bella's little brother wandered too far and got lost. Even though she was scared, Bella knew she had to be brave.\n\nShe hopped into the dark forest, her heart pounding. \"I can do this,\" she whispered to herself.\n\nFollowing her brother's favorite song, she found him crying under a big oak tree. \"Don't worry,\" Bella said, \"I'm here now!\"\n\nTogether, they followed the moonlight home. Bella realized that being brave doesn't mean you're not scared - it means doing what's right even when you are scared.\n\nFrom that day on, Bella was known as the bravest bunny in the burrow!\n\nThe End.\n\nRemember: Courage is being scared but doing it anyway!"
+          "storyType": "text",
+          "story": "In a cozy burrow lived Bella, a tiny bunny who was afraid of the dark forest.\n\nOne evening, Bella's little brother wandered too far and got lost. Even though she was scared, Bella knew she had to be brave.\n\nShe hopped into the dark forest, her heart pounding. \"I can do this,\" she whispered to herself.\n\nFollowing her brother's favorite song, she found him crying under a big oak tree. \"Don't worry,\" Bella said, \"I'm here now!\"\n\nTogether, they followed the moonlight home. Bella realized that being brave doesn't mean you're not scared - it means doing what's right even when you are scared.\n\nFrom that day on, Bella was known as the bravest bunny in the burrow!\n\nThe End.\n\nRemember: Courage is being scared but doing it anyway!",
+          "pages": []
+        },
+        {
+          "title": "Aaji and Meera",
+          "coverImage": "👵",
+          "coverColor": "#E8956D",
+          "author": "Folk Tales",
+          "lottieAnimation": null,
+          "storyType": "pages",
+          "story": "",
+          "pages": [
+            {
+              "image": "assets/images/stories/aaji_meera/img1.jpeg",
+              "text": "In a small village near Pandharpur, lived a loving grandmother named Aaji and her little daughter-like granddaughter Meera."
+            },
+            {
+              "image": "assets/images/stories/aaji_meera/img2.jpeg",
+              "text": "Every morning, Aaji woke up before sunrise. She lit the lamp, made warm bhakri, and hummed old devotional songs."
+            },
+            {
+              "image": "assets/images/stories/aaji_meera/img3.jpeg",
+              "text": "Meera would run into the kitchen, rubbing her sleepy eyes. \"Aaji, why do you wake up so early?\" she asked."
+            },
+            {
+              "image": "assets/images/stories/aaji_meera/img4.jpeg",
+              "text": "Aaji smiled, \"So I can see the day begin… and so you never go to school hungry.\""
+            },
+            {
+              "image": "assets/images/stories/aaji_meera/img5.jpeg",
+              "text": "One evening, heavy rain flooded the village roads. Meera was scared of the thunder and lightning. She ran to Aaji and hugged her tightly."
+            },
+            {
+              "image": "assets/images/stories/aaji_meera/img6.jpeg",
+              "text": "Aaji wrapped her in a warm shawl and said, \"Storms make loud noises, but they pass. Just like problems in life.\""
+            },
+            {
+              "image": "assets/images/stories/aaji_meera/img7.jpeg",
+              "text": "Meera listened carefully. The thunder still roared, but she was no longer afraid."
+            },
+            {
+              "image": "assets/images/stories/aaji_meera/img8.jpeg",
+              "text": "Years later, Meera grew up and moved to the city. Life became busy and fast. But whenever storms came — in the sky or in life — she remembered Aaji's words and felt strong again."
+            }
+          ]
         }
       ]
     },
@@ -34,7 +81,9 @@
           "coverColor": "#4A5899",
           "author": "Space Tales",
           "lottieAnimation": "rocket",
-          "story": "Luna was a curious little girl who loved looking at the moon through her telescope every night.\n\n\"I wonder what it's like up there,\" she thought.\n\nThat night, she dreamed she was an astronaut! She put on her space suit, climbed into a rocket, and counted down: \"5... 4... 3... 2... 1... BLAST OFF!\"\n\nThe rocket zoomed through space, passing twinkling stars and colorful planets. When she landed on the moon, Luna bounced around in the low gravity!\n\n\"Wheee! I can jump so high here!\" she giggled.\n\nShe collected moon rocks, planted a flag, and saw Earth hanging in the black sky like a beautiful blue marble.\n\n\"The moon has no air or water,\" she learned, \"but it's still amazing!\"\n\nWhen Luna woke up, she knew she wanted to learn everything about space. Maybe one day, her dream would come true!\n\nThe End.\n\nFun Fact: The moon is about 384,400 kilometers away from Earth!"
+          "storyType": "text",
+          "story": "Luna was a curious little girl who loved looking at the moon through her telescope every night.\n\n\"I wonder what it's like up there,\" she thought.\n\nThat night, she dreamed she was an astronaut! She put on her space suit, climbed into a rocket, and counted down: \"5... 4... 3... 2... 1... BLAST OFF!\"\n\nThe rocket zoomed through space, passing twinkling stars and colorful planets. When she landed on the moon, Luna bounced around in the low gravity!\n\n\"Wheee! I can jump so high here!\" she giggled.\n\nShe collected moon rocks, planted a flag, and saw Earth hanging in the black sky like a beautiful blue marble.\n\n\"The moon has no air or water,\" she learned, \"but it's still amazing!\"\n\nWhen Luna woke up, she knew she wanted to learn everything about space. Maybe one day, her dream would come true!\n\nThe End.\n\nFun Fact: The moon is about 384,400 kilometers away from Earth!",
+          "pages": []
         }
       ]
     },
@@ -49,7 +98,9 @@
           "coverColor": "#FFA500",
           "author": "Historical Tales",
           "lottieAnimation": null,
-          "story": "Long ago, there lived a curious boy named Thomas who loved to tinker with things.\n\nWhile other children played, Thomas would take apart clocks and toys to see how they worked.\n\n\"Why do things work the way they do?\" he always asked.\n\nOne day, Thomas tried to make a light without fire. People laughed at him. \"It's impossible!\" they said.\n\nBut Thomas didn't give up. He tried hundreds of different ways. Each time something didn't work, he said, \"That's okay! Now I know one more way that doesn't work!\"\n\nFinally, after many tries, Thomas made a light bulb glow! The room filled with bright, warm light - no fire needed!\n\n\"I didn't fail,\" Thomas smiled. \"I just found 1,000 ways that didn't work before finding the one that did!\"\n\nHis invention changed the world, and Thomas Edison became one of history's greatest inventors.\n\nThe End.\n\nRemember: Every mistake teaches us something new!"
+          "storyType": "text",
+          "story": "Long ago, there lived a curious boy named Thomas who loved to tinker with things.\n\nWhile other children played, Thomas would take apart clocks and toys to see how they worked.\n\n\"Why do things work the way they do?\" he always asked.\n\nOne day, Thomas tried to make a light without fire. People laughed at him. \"It's impossible!\" they said.\n\nBut Thomas didn't give up. He tried hundreds of different ways. Each time something didn't work, he said, \"That's okay! Now I know one more way that doesn't work!\"\n\nFinally, after many tries, Thomas made a light bulb glow! The room filled with bright, warm light - no fire needed!\n\n\"I didn't fail,\" Thomas smiled. \"I just found 1,000 ways that didn't work before finding the one that did!\"\n\nHis invention changed the world, and Thomas Edison became one of history's greatest inventors.\n\nThe End.\n\nRemember: Every mistake teaches us something new!",
+          "pages": []
         }
       ]
     },
@@ -64,7 +115,9 @@
           "coverColor": "#6495ED",
           "author": "Future Stories",
           "lottieAnimation": null,
-          "story": "In a bright laboratory, a little robot named Chip woke up for the first time.\n\n\"Hello, world!\" Chip beeped happily.\n\nA kind scientist named Dr. Maya smiled. \"Welcome, Chip! Let me teach you about the world.\"\n\nChip learned to recognize colors, count numbers, and even play music! But Chip wanted to do more.\n\n\"Can I help people?\" Chip asked.\n\n\"Of course!\" said Dr. Maya. \"That's what technology is for - to help make life better!\"\n\nChip helped organize books in the library, watered plants in the garden, and even read stories to children at bedtime.\n\n\"Technology is amazing when we use it to help others,\" Chip beeped proudly.\n\nThe children loved their new robot friend, and Chip learned that being helpful makes everyone happy!\n\nThe End.\n\nRemember: Technology is a tool that works best when we use it to help others!"
+          "storyType": "text",
+          "story": "In a bright laboratory, a little robot named Chip woke up for the first time.\n\n\"Hello, world!\" Chip beeped happily.\n\nA kind scientist named Dr. Maya smiled. \"Welcome, Chip! Let me teach you about the world.\"\n\nChip learned to recognize colors, count numbers, and even play music! But Chip wanted to do more.\n\n\"Can I help people?\" Chip asked.\n\n\"Of course!\" said Dr. Maya. \"That's what technology is for - to help make life better!\"\n\nChip helped organize books in the library, watered plants in the garden, and even read stories to children at bedtime.\n\n\"Technology is amazing when we use it to help others,\" Chip beeped proudly.\n\nThe children loved their new robot friend, and Chip learned that being helpful makes everyone happy!\n\nThe End.\n\nRemember: Technology is a tool that works best when we use it to help others!",
+          "pages": []
         }
       ]
     }
